@@ -1,11 +1,12 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
-cover: assets/images/radhakrishna.jpg
+title: Predictive Phylogeography Workshop SSB Conference 2018
+description: This site contains information pertainig to the workshop including
+the overview, schedule, and scripts
+cover: assets/images/ssb2018-front-banner.png
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+url: "https://predictivephylogeography-ssb2018.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
@@ -15,7 +16,7 @@ github:  github
 
 #Additional Pages
 about: about
-contact: contact
+contact: contactp
 privacy-policy: privacy-policy
 
 
