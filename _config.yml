@@ -1,38 +1,57 @@
 # Site settings
-title: Predictive Phylogeography Workshop SSB Conference 2018
-description: "A collabotative project between The Ohio State University and University of Idaho"
-url: "https://messDiv.github.io/"
-author:
-  name: "Predictive Phylogeography"
-  email: "meganrruffley@gmail.com"
+title: Hanuman
+description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+cover: assets/images/radhakrishna.jpg
+logo: assets/images/logo.png
+favicon: assets/images/favicon.png
+baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://samanyougarg.com" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
+
+# Social
+facebook: facebook
+twitter: twitter
+github:  github
+
+#Additional Pages
+about: about
+contact: contact
+privacy-policy: privacy-policy
+
+
+permalink: /:title
+
+
+# Google Analytics
+analytics_id: ""
 
 # Build settings
-baseurl:  # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 8
-paginate_path: /page:num/
 
-# Default values
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+kramdown:
+  parse_block_html: true
 
-# Plugins
-gems:
+plugins:
   - jekyll-paginate
-  - jekyll-sitemap
 
-# Custom variables
-version: "1.0.0"
 
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
+# Settings for rake task
+safe: False
+lsi: False
+username: samanyougarg #github username
+repo: hanuman #github repository
+branch: master #branch
+relative_source: ../hanuman/ #source directory
+destination: ../hanuman-pages/ #destination directory
+production_url:  https://samanyougarg.com/
+source_url:  https://github.com/samanyougarg/hanuman #source repository url
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
