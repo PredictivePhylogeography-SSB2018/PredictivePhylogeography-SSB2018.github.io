@@ -1,10 +1,10 @@
 # Site settings
-title: messDiv | Massive Eco-evolutionary Synthesis Simulation at sDiv
-description: "A collabotative project through sDiv"
+title: Predictive Phylogeography Workshop SSB Conference 2018
+description: "A collabotative project between The Ohio State University and University of Idaho"
 url: "https://messDiv.github.io/"
 author:
-  name: "sDiv working group"
-  email: "lukeh@uidaho.edu"
+  name: "Predictive Phylogeography"
+  email: "meganrruffley@gmail.com"
 
 # Build settings
 baseurl:  # Change this to your relative path (ex: /blog/), or leave just a /
