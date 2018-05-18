@@ -1,27 +1,40 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
+title: About messDiv
 ---
-## About our Site
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+We will be hosting several working groups at the German Centre for Integrative Biodiversity Research ([iDiv](https://www.idiv.de/sdiv.html)).
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+A central challenge in understanding the origins of biodiversity is that, while ecological phenomena occur across observably short time periods, the longer-term drivers and outcomes of these ecological processes can often only be indirectly infered. We propose to develop inferential models at the interface between macroecology, macroevolution and population-level processes, and apply them to data from geological or ecological chronosequences that present communities of different ages. Inferences from these snapshots in time thereby allow for model validation and a link between direct observational methods for local communities and models that make indirect inferences underlying community history using genetic and phylogenetic patterns. The workshop will use data from multiple insular systems, each comprising replicated sites that range from $<$ 500 years to $>$ 5 million years. We propose to directly link ecological theories and models of community composition and comparative population genomics, all within a temporal framework. Our approach is to  build a unified model bridging theory from phylogenetic and comparative population genomics with ecological theory, so as to understand the history underlying patterns of species diversity. This model will then be used to make joint predictions of species abundances and genetic diversities over time. We will then test this model with data collected across diverse taxa and a range of systems that provide snapshots in time. This unified approach will bridge ecological and evolutionary theory to elucidate processes responsible for origins and maintenance of species diversity and provide a framework for making predictions about biodiversity dynamics.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+You can read about the preliminary mechanics of this model [here](https://messdiv.github.io/cartoon-model).
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+This is of course based on a large existing literature which we summarize [here](https://messdiv.github.io/messDiv_readings).
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+## Participants
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+| Name | Institution |	Email |
+| --- | --- | --- |
+| Rosemary	Gillespie | UC Berkeley | <gillespie@berkeley.edu> |
+| Mike	Hickerson |	CUNY (New York) |	<mhickerson@gmail.com> |
+| Andrew	Rominger | Santa Fe Institute	| <ajrominger@gmail.com> |
+| Jonathan 	Chase | iDiv, Leipzig | <jonathan.chase@idiv.de> |
+| Luke 	Harmon | University of Idaho | <lukeh@uidaho.edu> |
+| Isaac	Overcast | CUNY (New York) | <isaac.overcast@gmail.com> |
+| Katie 	Wagner | Univ Wyoming | <catherine.wagner@uwyo.edu> |
+| James 	Rosindell | Imperial | <j.rosindell@imperial.ac.uk> |
+| Rampal 	Etienne | Univ. Groningen | <r.s.etienne@rug.nl> |
+| Tiffany	Knight | iDiv, Leipzig | <tiffany.knight@idiv.de> |
+| Luke 	Mahler | Univ. Toronto | <luke.mahler@utoronto.ca> |
+| Brian 	McGill | University of Maine | <mail@brianmcgill.org> |
+| Christine 	Parent | University of Idaho | <ceparent@uidaho.edu> |
+| Francois 	Massol | University of Lille | <francois.massol@univ-lille1.fr> |
+| Jairo 	Patiño | UC Berkeley | <jpatino.llorente@gmail.com> |
+| Paulo 	Borges | Univer. dos Açores | <paulo.av.borges@uac.pt> |
+| Angela 	McGaughran | Australia National University | <ang.mcgaughran@gmail.com> |
+| Joaquin 	Hortal | Mus Nac Cien Nat (CSIC), Madrid |	<jhortal@mncn.csic.es> |
+| Petr 	Keil | iDiv, Leipzig | <pkeil@seznam.cz> |
+| Ben 	Peter | Max Planck, Leipzig	| <benj.pet@gmail.com> |
+| Megan 	Ruffey	| University of Idaho | <ruff6699@vandals.uidaho.edu> |
+| Bob 	Week |	University of Idaho	| <bobweek@gmail.com> |
+

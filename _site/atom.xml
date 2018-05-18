@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>messDiv | Massive Eco-evolutionary Synthesis Simulation at sDiv</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <id>http://localhost:4000</id>
+ <updated>2018-03-07T17:50:02-08:00</updated>
+ <author>
+   <name>sDiv working group</name>
+   <uri></uri>
+   <email>lukeh@uidaho.edu</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>The messDiv model</title>
+   <link href="http://localhost:4000/cartoon-model"/>
+   <id>http://localhost:4000/cartoon-model</id>
+   <updated>2018-03-06T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt;The model as of right now works as follows.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/fig_mod.jpg&quot; alt=&quot;Schematic of regional pool and local community processes.&quot; /&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Simulate a phylogenetic tree under a speciation-extinction model with birth rate $\lambda$ and death rate $c\lambda$ where $c$ determines the proportion of extinction relative to speciation and is bounded...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Schedule</title>
+   <link href="http://localhost:4000/schedule-idea"/>
+   <id>http://localhost:4000/schedule-idea</id>
+   <updated>2018-03-05T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt;This meeting will take place from 19th to 23rd March 2018 at iDiv, Deutscher Platz 5, 04103 Leipzig.&lt;/p&gt; &lt;h1 id=&quot;sunday-18-march-2018&quot;&gt;Sunday 18 March 2018&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;7:00 pm&lt;/td&gt; &lt;td&gt;Dinner reservation in the restaurant &lt;a href=&quot;https://www.amaroso-leipzig.de/&quot;&gt;Amaroso&lt;/a&gt; (in Balance Hotel)&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h1 id=&quot;monday-19th-march&quot;&gt;Monday 19th March&lt;/h1&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;9:00 am&lt;/td&gt;...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>messDiv project summary</title>
+   <link href="http://localhost:4000/project-summary"/>
+   <id>http://localhost:4000/project-summary</id>
+   <updated>2018-03-05T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt;A central challenge in understanding the origins of biodiversity is that, while we can observe and test local ecological phenomena, we must usually infer the longer-term outcomes of these ecological forces indirectly. We propose to develop inferential models at the interface between macroecology and population-level processes, and apply them to...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Participant list - March 2018</title>
+   <link href="http://localhost:4000/participant-list"/>
+   <id>http://localhost:4000/participant-list</id>
+   <updated>2018-03-05T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt; &lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Name&lt;/th&gt; &lt;th&gt;Institution&lt;/th&gt; &lt;th&gt;Email&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Rosemary Gillespie&lt;/td&gt; &lt;td&gt;UC Berkeley&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:gillespie@berkeley.edu&quot;&gt;gillespie@berkeley.edu&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Mike Hickerson&lt;/td&gt; &lt;td&gt;CUNY (New York)&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:mhickerson@gmail.com&quot;&gt;mhickerson@gmail.com&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Andrew Rominger&lt;/td&gt; &lt;td&gt;Santa Fe Institute&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:ajrominger@gmail.com&quot;&gt;ajrominger@gmail.com&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Jonathan Chase&lt;/td&gt; &lt;td&gt;iDiv, Leipzig&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;mailto:jonathan.chase@idiv.de&quot;&gt;jonathan.chase@idiv.de&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Luke Harmon&lt;/td&gt; &lt;td&gt;University of Idaho&lt;/td&gt;...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Typography Example | Monochrome</title>
+   <link href="http://localhost:4000/typography-example"/>
+   <id>http://localhost:4000/typography-example</id>
+   <updated>2017-02-14T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/monochrome/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Code Example</title>
+   <link href="http://localhost:4000/code-example"/>
+   <id>http://localhost:4000/code-example</id>
+   <updated>2017-02-12T00:00:00-08:00</updated>
+   <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
+ </entry>
+
+ 
+
+</feed>
