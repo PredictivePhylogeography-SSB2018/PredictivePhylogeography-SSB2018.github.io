@@ -11,9 +11,9 @@ layout: default
 |              | Random Forest and Predictive Modeling        |
 | **1:30 PM**  | Predicting cryptic species example           |
 | **1:45 PM**  | Tutorial 1; predicting IUCN status           |
-  |            |      <dd> *discuss dataset* </dd>            |
-  |            |       *evaluating classifier / downsampling*     |
-  |            |       *variable importance / making predictions* |
+  |            |       --*discuss dataset*            |
+  |            |       --*evaluating classifier / downsampling*     |
+  |            |       --*variable importance / making predictions* |
 | **3:15 PM**  | ~Coffee Break~                               |
 |:-------------|:---------------------------------------------|
 | 3:30 PM      | Model selection with random forest           |
