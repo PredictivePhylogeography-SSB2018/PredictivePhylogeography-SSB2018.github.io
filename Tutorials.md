@@ -1,12 +1,12 @@
 ---
-layout: default2
+layout: default
 ---
 ## [About](index.md) / [Schedule](./Schedule.html) / [Contact](./Contact.html) / [Tutorials](./Tutorials.html)
 
-# Tutorials
+### Tutorials
 
-Here we will list all tutorials
+#### #1. Constructing a random forest classifier to predict IUCN status
 
-[randomForestIUCN](https://predictivephylogeography-ssb2018.github.io/Random_Forest.html)
+[Link to tutorial #1](https://predictivephylogeography-ssb2018.github.io/Random_Forest.html)
 
 [back](./)

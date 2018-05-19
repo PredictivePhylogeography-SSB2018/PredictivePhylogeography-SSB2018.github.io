@@ -1,5 +1,5 @@
 ---
-layout: default3
+layout: default
 ---
 ## [About](index.md) / [Schedule](./Schedule.html) / [Contact](./Contact.html) / [Tutorials](./Tutorials.html)
 
