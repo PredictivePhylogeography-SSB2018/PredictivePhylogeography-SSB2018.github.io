@@ -5,11 +5,11 @@ layout: default
 
 [Link to another page](./another-page.html).This page has old info on it for styling
 
-# About Predictive Pyhlogeography
+# Predictive Pyhlogeography
 
-Predictive phylogeography is... some history
 
-Briefly describe main Example of Pred phylo in Espindola
+# Random Forest
+
 
 ## Background information
 
