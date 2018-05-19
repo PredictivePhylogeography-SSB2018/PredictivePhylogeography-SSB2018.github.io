@@ -8,11 +8,9 @@ layout: default
 ![Tara](./assets/img/Tara.pdf)
 
 **Tara Pelletier**
-<dl>
-<dd>The Ohio State University</dd>
-<dd>tarapell@gmail.com</dd>
+<dl><dd>tarapell@gmail.com</dd>
 <dd>[Website](https://sites.google.com/site/taraapelletier/)</dd>
-
+</dl>
 
 
 ![Megan1](./assets/img/Megan1.pdf)
