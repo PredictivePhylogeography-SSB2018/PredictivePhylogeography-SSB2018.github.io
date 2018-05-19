@@ -7,12 +7,12 @@ layout: default
 
 |June 1, 2018  |SSB workshop                                  |  
 |:-------------|:---------------------------------------------|
-| 1:00 PM      | Introductions;                               |
+| **1:00 PM**  | Introductions;                               |
 |              | Random Forest and Predictive Modeling        |
-| 1:30 PM      | Predicting cryptic species example           |
-| 1:45 PM      | Tutorial 1; predicting IUCN status           |
-|              |    * discuss dataset                          |
-|              |    * evaluating classifier / downsampling     |
+| **1:30 PM**  | Predicting cryptic species example           |
+| **1:45 PM**   Tutorial 1; predicting IUCN status           |
+|              |        discuss dataset                          |
+  |              |    *evaluating classifier / downsampling*     |
 |              |    * variable importance / making predictions |
 | **3:15 PM**  | ~Coffee Break~                               |
 |:-------------|:---------------------------------------------|
