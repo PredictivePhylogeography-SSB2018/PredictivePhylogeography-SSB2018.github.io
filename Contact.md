@@ -22,7 +22,7 @@ layout: default2
 - [Website](http://anahiespindola.github.io/about-me.html)
 
 
-![Megan](./assets/img/ssb2018-front-banner.png)
+![Megan](./assets/img/Megan.png)
 **Megan Ruffley**
 - University of Idaho
 - meganrruffley@gmail.com
