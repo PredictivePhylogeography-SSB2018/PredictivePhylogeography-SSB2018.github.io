@@ -5,13 +5,15 @@ layout: default
 
 [Link to another page](./another-page.html).This page has old info on it for styling
 
-## Predictive Pyhlogeography
+### Predictive Pyhlogeography
 
+informative blurb :P
 
-## Random Forest
+### Random Forest
 
+informative blurb #2
 
-## Background information
+### Background information
 
 Breiman L. Random Forests. *Machine Learning* **2001**, 45, 5-32. [link](https://link.springer.com/content/pdf/10.1023%2FA%3A1010933404324.pdf)
 
