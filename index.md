@@ -4,7 +4,7 @@ layout: default
 
 
 
-## [About](./About.html) // ##[Contact](./Contact.html) // ##[Tutorials](./Tutorial.html)
+## [About](./About.html) / [Contact](./Contact.html) / [Tutorials](./Tutorials.html)
 
 [Link to another page](./another-page.html).
 
