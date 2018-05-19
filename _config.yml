@@ -1,58 +1,60 @@
-# Site settings
-title: Predictive Phylogeography Workshop SSB Conference 2018
-description: This site contains information pertainig to the workshop including
-the overview, schedule, and scripts
-cover: assets/images/ssb2018-front-banner.png
-logo: assets/images/logo.png
-favicon: assets/images/favicon.png
-baseurl: "/predictivephylogeography-ssb2018.github.io/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://predictivephylogeography-ssb2018.github.io" # the base hostname & protocol for your site
-paginate:	5 # The number of posts to show per page on your homepage
 
-# Social
-facebook: facebook
-twitter: twitter
-github:  github
+# SEO settings
+title: Simplest
+description: "A free Jekyll theme for download"
+keywords: "Jekyll, theme, free, download, SEO, blog, web"
+url: http://nandomoreira.me
+baseurl: "/simplest"
+# baseurl: null
 
-#Additional Pages
-about: about
-contact: contactp
-privacy-policy: privacy-policy
-
-
-permalink: /:title
-
-
-# Google Analytics
-analytics_id: ""
+google_analytics: UA-52446115-1
+repo: http://github.com/nandomoreirame/simplest
+disqus_shortname: "nandothemes"
 
 # Build settings
-markdown: kramdown
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : pygments
 
-kramdown:
-  parse_block_html: true
+paginate: 4
+paginate_path: "/page/:num/"
+comments: true
 
-plugins:
+source: source
+destination: _site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : Fernando Moreira
+  job      : Frontend Engineer
+  bio      : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  thumb    : /images/author.jpg
+  email    : nandomoreira.me@gmail.com
+  url      : http://nandomoreira.me
+  github   : http://github.com/nandomoreirame
+  twitter  : http://twitter.com/nandomoreirame
+  facebook : http://facebook.com/fernando.dev
+  linkedin : http://linkedin.com/in/nandomoreirame
+
+# social settings
+og_locale: "pt_BR"
+twitter_card: "summary_large_image"
+twitter_site: "@nandomoreirame"
+
+gems:
+  - bourbon
   - jekyll-paginate
 
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
 
-# Settings for rake task
-safe: False
-lsi: False
-username: ruffleymr #github username
-repo: predictivephylogeography-ssb2018.github.io #github repository
-branch: master #branch
-relative_source: ../predictivephylogeography-ssb2018.github.io/ #source directory
-destination: ../predictivephylogeography-ssb2018.github.io/ #destination directory
-production_url:  https://predictivephylogeography-ssb2018.github.io
-source_url:  https://github.com/PredictivePhylogeography-SSB2018/PredictivePhylogeography-SSB2018.github.io #source repository url
-
-exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
