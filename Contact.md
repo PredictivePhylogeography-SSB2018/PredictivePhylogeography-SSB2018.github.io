@@ -2,7 +2,7 @@
 layout: default2
 ---
 
-## Contact information
+# Contact information
 
 
 

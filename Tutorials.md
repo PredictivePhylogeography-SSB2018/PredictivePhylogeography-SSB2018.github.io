@@ -2,7 +2,7 @@
 layout: default2
 ---
 
-## Tutorials
+# Tutorials
 
 Here we will list all tutorials
 
