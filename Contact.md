@@ -10,8 +10,8 @@ layout: default
 <dt>Tara Pelletier</dt>
 <dd>tarapell@gmail.com</dd>
 <dd>The Ohio State University</dd>
-<dd>[Website](https://sites.google.com/site/taraapelletier/)</dd>
 </dl>
+- [Website](https://sites.google.com/site/taraapelletier/)
 * * *
 
 
