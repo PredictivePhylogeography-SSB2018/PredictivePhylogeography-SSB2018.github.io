@@ -29,5 +29,6 @@ layout: default
 
 |**Megan Ruffley** meganrruffley@gmail.com|
 |University of Idaho| |[Website](https://meganruffley.weebly.com)|
+* * *
 
 [back](./)
