@@ -6,14 +6,8 @@ layout: default
 ### Contact information
 
 ![Tara](./assets/img/Tara.pdf)
-<dl>
-<dt>Tara Pelletier</dt>
-<dd>tarapell@gmail.com</dd>
-<dd>The Ohio State University</dd>
-</dl>
-- [Website](https://sites.google.com/site/taraapelletier/)
+|**Tara Pelletier** tarapell@gmail.com| |The Ohio State University| |[Website](https://sites.google.com/site/taraapelletier/)|
 * * *
-
 
 
 ![Megan1](./assets/img/Megan1.pdf)
