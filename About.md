@@ -2,15 +2,15 @@
 layout: default
 ---
 
-# About Predictive Pyhlogeography
+# Schedule
 
-Predictive phylogeography is... some history
-
-Briefly describe main Example of Pred phylo in Espindola
-
-##Bacground information
-
-Provide relevant ciations
-
+·         Introductions
+·         Predictive modeling –
+·         Cryptic species example – Megan S
+·         Other example – Megan R
+·         Random forest –
+·         Discuss example dataset and tutorials –
+·         Evaluating the classifier / downsampling –
+·         Variable importance / making predictions –
 
 [back](./)
