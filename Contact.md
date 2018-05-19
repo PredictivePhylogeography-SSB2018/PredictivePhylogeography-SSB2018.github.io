@@ -5,22 +5,25 @@ layout: default2
 
 #### Contact information
 
-Tara Pelletier
+
+**Tara Pelletier**
 - The Ohio State University
 - tarapell@gmail.com
 - [Website](https://sites.google.com/site/taraapelletier/)
 
-Megan Smith
+**Megan Smith**
 - The Ohio State University
 - megansmth67@gmail.com
 - [Website](https://carstenslab.osu.edu/people.html)
 
-Anahi Espindola
+**Anahi Espindola**
 - University of Idaho
 - anahi.espindola@gmail.com
 - [Website](http://anahiespindola.github.io/about-me.html)
 
-Megan Ruffley
+
+![Megan](./assets/img/ssb2018-front-banner.png)
+**Megan Ruffley**
 - University of Idaho
 - meganrruffley@gmail.com
 - [Website](https://meganruffley.weebly.com)
