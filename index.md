@@ -14,7 +14,7 @@ Predictive phylogeography is... some history
 
 Briefly describe main Example of Pred phylo in Espindola
 
-##Background information
+# Background information
 
 Breimen L. Random Forests. *Machine Learning* **2001**, 45, 5-32.
 
