@@ -7,35 +7,28 @@ layout: default
 
 ![Tara](./assets/img/Tara.pdf)
 
-**Tara Pelletier**
-<dl><dd>tarapell@gmail.com</dd>
-<dd>[Website](https://sites.google.com/site/taraapelletier/)</dd>
-</dl>
+**Tara Pelletier** tarapell@gmail.com
+The Ohio State University [Website](https://sites.google.com/site/taraapelletier/)
+* * *
 
 
 ![Megan1](./assets/img/Megan1.pdf)
 
-**Megan Smith**
-The Ohio State University
-megansmth67@gmail.com
-[Website](https://carstenslab.osu.edu/people.html)
-
+**Megan Smith** megansmth67@gmail.com
+The Ohio State University [Website](https://carstenslab.osu.edu/people.html)
+* * *
 
 
 ![Anahi](./assets/img/Anahi.pdf)
 
-**Anahi Espindola**
-University of Idaho
-anahi.espindola@gmail.com
-[Website](http://anahiespindola.github.io/about-me.html)
-
+**Anahi Espindola** anahi.espindola@gmail.com
+University of Idaho [Website](http://anahiespindola.github.io/about-me.html)
+* * *
 
 
 ![Megan0](./assets/img/Megan0.pdf)
 
-**Megan Ruffley**
-University of Idaho
-meganrruffley@gmail.com
-[Website](https://meganruffley.weebly.com)
+**Megan Ruffley** meganrruffley@gmail.com
+University of Idaho [Website](https://meganruffley.weebly.com)
 
 [back](./)
