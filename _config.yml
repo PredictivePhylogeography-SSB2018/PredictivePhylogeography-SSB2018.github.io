@@ -5,7 +5,7 @@ the overview, schedule, and scripts
 cover: assets/images/ssb2018-front-banner.png
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/predictivephylogeography-ssb2018.github.io/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://predictivephylogeography-ssb2018.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
@@ -43,7 +43,7 @@ username: ruffleymr #github username
 repo: predictivephylogeography-ssb2018.github.io #github repository
 branch: master #branch
 relative_source: ../predictivephylogeography-ssb2018.github.io/ #source directory
-destination: ../predictivephylogeography-ssb2018.github.io-pages/ #destination directory
+destination: ../predictivephylogeography-ssb2018.github.io/ #destination directory
 production_url:  https://predictivephylogeography-ssb2018.github.io
 source_url:  https://github.com/PredictivePhylogeography-SSB2018/PredictivePhylogeography-SSB2018.github.io #source repository url
 
