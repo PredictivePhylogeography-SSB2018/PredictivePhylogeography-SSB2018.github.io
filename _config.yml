@@ -39,13 +39,13 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
+username: ruffleymr #github username
+repo: predictivephylogeography-ssb2018.github.io #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+relative_source: ../predictivephylogeography-ssb2018.github.io/ #source directory
+destination: ../predictivephylogeography-ssb2018.github.io-pages/ #destination directory
+production_url:  https://predictivephylogeography-ssb2018.github.io
+source_url:  https://github.com/PredictivePhylogeography-SSB2018/PredictivePhylogeography-SSB2018.github.io #source repository url
 
 exclude:
   - README.md
