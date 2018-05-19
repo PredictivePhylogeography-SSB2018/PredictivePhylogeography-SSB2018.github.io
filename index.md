@@ -5,10 +5,10 @@ layout: default
 
 [Link to another page](./another-page.html).This page has old info on it for styling
 
-# Predictive Pyhlogeography
+## Predictive Pyhlogeography
 
 
-# Random Forest
+## Random Forest
 
 
 ## Background information

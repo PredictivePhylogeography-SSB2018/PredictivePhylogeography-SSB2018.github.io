@@ -3,26 +3,26 @@ layout: default2
 ---
 ## [About](index.md) / [Schedule](./Schedule.html) / [Contact](./Contact.html) / [Tutorials](./Tutorials.html)
 
-## Contact information
+#### Contact information
 
-### Tara Pelletier
--The Ohio State University
--tarapell@gmail.com
--[Website](https://sites.google.com/site/taraapelletier/)
+Tara Pelletier
+- The Ohio State University
+- tarapell@gmail.com
+- [Website](https://sites.google.com/site/taraapelletier/)
 
-### Megan Smith
--The Ohio State University
--megansmth67@gmail.com
--[Website](https://carstenslab.osu.edu/people.html)
+Megan Smith
+- The Ohio State University
+- megansmth67@gmail.com
+- [Website](https://carstenslab.osu.edu/people.html)
 
-### Anahi Espindola
--University of Idaho
--anahi.espindola@gmail.com
--[Website](http://anahiespindola.github.io/about-me.html)
+Anahi Espindola
+- University of Idaho
+- anahi.espindola@gmail.com
+- [Website](http://anahiespindola.github.io/about-me.html)
 
-### Megan Ruffley
--University of Idaho
--meganrruffley@gmail.com
--[Website](https://meganruffley.weebly.com)
+Megan Ruffley
+- University of Idaho
+- meganrruffley@gmail.com
+- [Website](https://meganruffley.weebly.com)
 
 [back](./)
