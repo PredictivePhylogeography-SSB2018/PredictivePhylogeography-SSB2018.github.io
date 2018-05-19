@@ -3,7 +3,7 @@ layout: default3
 ---
 ## [About](index.md) / [Schedule](./Schedule.html) / [Contact](./Contact.html) / [Tutorials](./Tutorials.html)
 
-#### Contact information
+### Contact information
 
 ![Tara](./assets/img/Tara.pdf)
 
