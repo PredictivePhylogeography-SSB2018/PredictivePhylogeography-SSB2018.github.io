@@ -16,8 +16,9 @@ informative blurb #2
 
 
 
-#### Background information
 * * *
+#### Background Reading
+
 Breiman L. Random Forests. *Machine Learning* **2001**, 45, 5-32. [link](https://link.springer.com/content/pdf/10.1023%2FA%3A1010933404324.pdf)
 
 Csardi G, Nepusz T. The igraph software package for complex network research, InterJournal, Complex Systems 1695. **2006**, [igraph](http://igraph.org) [link](https://pdfs.semanticscholar.org/1d27/44b83519657f5f2610698a8ddd177ced4f5c.pdf)
