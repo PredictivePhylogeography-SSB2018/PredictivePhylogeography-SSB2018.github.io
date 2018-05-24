@@ -8,21 +8,19 @@ layout: default
 |June 1, 2018  |SSB workshop                                  |  
 |:-------------|:---------------------------------------------|
 | **1:00 PM**  | Introductions;                               |
-|              | Random Forest and Predictive Modeling        |
-| **1:30 PM**  | Predicting cryptic species example           |
-| **1:45 PM**  | Tutorial 1; predicting IUCN status           |
-  |            |       *-discuss dataset*            |
-  |            |       *-evaluating classifier / downsampling*     |
-  |            |       *-variable importance / making predictions* |
-| **3:15 PM**  | ~Coffee Break~                               |
+|              | Predictive Modeling and Random Forest        |
+|              | Predicting cryptic species example           |
+|              | Model selection example                      |
+|              | **Tutorial 1**; predicting IUCN status       |
+  |            |       *Section 1 - 4*                        |
+| **~~~~~~**   | ~Coffee Break~                               |
 |:-------------|:---------------------------------------------|
-| **3:30 PM**  | Model selection with random forest           |
-| **3:45 PM**  | Tutorial 2; predicting cryptic diversity     |
-  |              |    *-discuss dataset*                          |
-  |              |    *-evaluating classifier*                    |
-  |              |    *-adding predictor variables*               |
-| **4:30 PM**  | Discuss main results and conclusions         |
-| **4:55 PM**  | Concluding remarks                           |
+|              | Evaluating classifier / Downsampling         |
+  |            |       *Section 5 - 7*                        |
+|              | Variable Importance / Predictions            |
+  |            |       *Section 8 - 9*                        |
+|              | **Tutorial 2**; Predicting Cryptic Diversity |
+| **4:45 PM**  | Discuss main results and conclusions         |
 |:-------------|:---------------------------------------------|
 
 [back](./)
