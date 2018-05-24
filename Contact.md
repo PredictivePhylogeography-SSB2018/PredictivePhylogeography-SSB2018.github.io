@@ -5,7 +5,7 @@ layout: default
 
 ### Contact information
 
-![Tara](./assets/img/Tara.pdf)
+![Tara](./assets/img/Tara-1.png)
 
 |**Tara Pelletier** tarapell@gmail.com| |The Ohio State University|  |[Website](https://sites.google.com/site/taraapelletier/)|
 * * *
