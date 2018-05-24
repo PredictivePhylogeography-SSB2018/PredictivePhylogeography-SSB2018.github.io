@@ -26,7 +26,7 @@ layout: default
 * * *
 
 
-<img src="./assets/img/Megan0.png" style="width:10em; height:13em;" />
+<img src="./assets/img/Megan0.png" style="width:10em; height:11em;" />
 
 |**Megan Ruffley** meganrruffley@gmail.com|
 |University of Idaho| |[Website](https://meganruffley.weebly.com)|

@@ -11,7 +11,7 @@ layout: default
 |              | Predictive Modeling and Random Forest        |
 |              | Predicting cryptic species example           |
 |              | Model selection example                      |
-|              | **Tutorial 1**: Predicting IUCN Status       |
+|              | **[Tutorial #1](https://predictivephylogeography-ssb2018.github.io/Random_Forest.html)**: Predicting IUCN Status       |
   |            |       *Section 1 - 4*                        |
 | **~~~~~~**   | ~Coffee Break~                               |
 |:-------------|:---------------------------------------------|
@@ -19,7 +19,7 @@ layout: default
   |            |       *Section 5 - 7*                        |
 |              | Variable Importance / Predictions            |
   |            |       *Section 8 - 9*                        |
-|              | **Tutorial 2**: Predicting Cryptic Diversity |
+|              | **[Tutorial #2](https://predictivephylogeography-ssb2018.github.io/PNWPhylogeo05212018.html)**: Predicting Cryptic Diversity |
 | **4:45 PM**  | Discuss main results and conclusions         |
 |:-------------|:---------------------------------------------|
 
