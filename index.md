@@ -3,7 +3,7 @@ layout: default
 ---
 ## [About](index.md) / [Schedule](./Schedule.html) / [Contact](./Contact.html) / [Tutorials](./Tutorials.html)
 
-The goal of this workshop is to present examples for how to use random forest to make phylogeographic and conservation status predictions.
+The goal of this workshop is to present examples for how to use random forest when making phylogeographic and conservation status predictions.
 
 
 * * *
