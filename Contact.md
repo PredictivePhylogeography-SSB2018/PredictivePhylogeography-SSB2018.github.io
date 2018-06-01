@@ -15,7 +15,7 @@ layout: default
 <img src="./assets/img/Megan1.png" style="width:10em; height:13em;" />
 
 |**Megan Smith** megansmth67@gmail.com| |The Ohio State University|
-|[Website](https://carstenslab.osu.edu/people.html)|
+|[Website](http://www.meganlsmith.org)|
 * * *
 
 

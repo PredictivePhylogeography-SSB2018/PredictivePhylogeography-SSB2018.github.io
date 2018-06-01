@@ -3,7 +3,7 @@ layout: default
 ---
 ## [About](index.md) / [Schedule](./Schedule.html) / [Contact](./Contact.html) / [Tutorials](./Tutorials.html)
 
-The goal of this workshop is to present examples for how to use random forest when making phylogeographic and conservation status predictions. For more information on these topics, refer to the background reading below. 
+The goal of this workshop is to present examples for how to use random forest when making phylogeographic and conservation status predictions. For more information on these topics, refer to the background reading below.
 
 
 * * *
@@ -26,3 +26,8 @@ Pelletier TA, Carstens BC, Tank D, Sullivan J, Esp?ndola A. Predicting plant con
 Wickham H. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, **2009**.
 
 Wickham H, Francois R, Henry L, M?ller K. dplyr: A Grammar of Data Manipulation. R package version 0.7.2. **2017**, [dplyr](https://CRAN.R-project.org/package=dplyr)
+
+
+* * *
+#### Funding Sources
+We would like to thank NSF (DEB1457519) for funding this research, workshop, and travel for some of the participants. 
